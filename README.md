@@ -1,5 +1,5 @@
 # BIGNUM-WITH-KARATSUBA
-This library implements a custom Big Integer class in C++ using the Karatsuba multiplication algorithm, a divide-and-conquer approach capable of multiplying extremely large numbers with 100% accuracy. It handles positive integers far exceeding the limits of standard C++ data types, utilizing efficient storage through the string class. The library supports fundamental operations such as addition, subtraction, multiplication, and division along with logical operations such as <, >, ==, etc..
+This library implements a custom Big Integer class in C++ using the Karatsuba multiplication algorithm, a divide-and-conquer approach capable of multiplying extremely large numbers with 100% accuracy. It handles positive integers far exceeding the limits of standard C++ data types, utilizing efficient storage through the string class. The library supports fundamental operations such as addition, subtraction, multiplication, modulus, and division along with logical operations such as <, >, ==, etc..
 
 Key Features:
 
