@@ -12,3 +12,5 @@ Key Features:
   -Custom Algorithms: Specialized algorithms for handling large numbers and precise arithmetic operations.
   
 This library is ideal for anyone needing precise, large-scale integer arithmetic in C++ applications.
+
+Note*: Must use GCC compiler as certain functions are implementation-defined, and other compilers may give unexpected behavior.
