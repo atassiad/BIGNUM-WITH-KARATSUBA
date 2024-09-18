@@ -3,7 +3,7 @@ This library implements a custom Big Integer class in C++ using the Karatsuba mu
 
 Key Features:
 
-  -Karatsuba Algorithm: High-performance multiplication for numbers of any size up to hardward-specific string length limits.
+  -Karatsuba Algorithm: High-performance multiplication for numbers of any size up to hardware-specific string length limits.
   
   -Object-Oriented Design: Modular and extensible design using OOP principles.
   
